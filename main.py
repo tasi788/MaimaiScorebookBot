@@ -96,5 +96,5 @@ while True:
 		conn.commit()
 		conn.close()
 		exit()
-	while 1:
-	    time.sleep(10)
+while 1:
+	time.sleep(10)
